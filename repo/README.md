@@ -15,9 +15,7 @@ uvicorn main:app --host 127.0.0.1 --port 8000
  #FRONTEND_SERVER
 
 place inside frontend/ad_insights_explorer_lite_fe
- install react-scripts
- npm install react-scripts
- install DataTable
- run server
+ npm install 'react-scripts'
+run server
  npm run start
 
