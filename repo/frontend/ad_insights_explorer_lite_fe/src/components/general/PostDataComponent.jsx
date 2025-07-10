@@ -58,12 +58,6 @@ function PostDataTableComponent() {
         width: "200px",
         selector: row => row.body,
         sortable: false,
-      },
-      {
-        name: 'WORD COUNT',
-        width: "160px",
-        selector: row => row.word_count,
-        sortable: false,
       }
     ];
 
